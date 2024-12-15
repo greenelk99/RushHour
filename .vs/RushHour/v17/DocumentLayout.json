@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matti\\source\\repos\\RushHour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7A9AF0-4E66-417D-A311-34FCFC834BF2}|RushHour\\RushHour.csproj|c:\\users\\matti\\source\\repos\\rushhour\\rushhour\\spielbrett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7A9AF0-4E66-417D-A311-34FCFC834BF2}|RushHour\\RushHour.csproj|solutionrelative:rushhour\\spielbrett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7A9AF0-4E66-417D-A311-34FCFC834BF2}|RushHour\\RushHour.csproj|c:\\users\\matti\\source\\repos\\rushhour\\rushhour\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7A9AF0-4E66-417D-A311-34FCFC834BF2}|RushHour\\RushHour.csproj|solutionrelative:rushhour\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7A9AF0-4E66-417D-A311-34FCFC834BF2}|RushHour\\RushHour.csproj|c:\\users\\matti\\source\\repos\\rushhour\\rushhour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7A9AF0-4E66-417D-A311-34FCFC834BF2}|RushHour\\RushHour.csproj|solutionrelative:rushhour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7A9AF0-4E66-417D-A311-34FCFC834BF2}|RushHour\\RushHour.csproj|c:\\users\\matti\\source\\repos\\rushhour\\rushhour\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7A9AF0-4E66-417D-A311-34FCFC834BF2}|RushHour\\RushHour.csproj|solutionrelative:rushhour\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\source\\repos\\RushHour\\RushHour\\Auto.cs",
+              "RelativeDocumentMoniker": "RushHour\\Auto.cs",
+              "ToolTip": "C:\\Users\\matti\\source\\repos\\RushHour\\RushHour\\Auto.cs",
+              "RelativeToolTip": "RushHour\\Auto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:41:12.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\source\\repos\\RushHour\\RushHour\\Program.cs",
+              "RelativeDocumentMoniker": "RushHour\\Program.cs",
+              "ToolTip": "C:\\Users\\matti\\source\\repos\\RushHour\\RushHour\\Program.cs",
+              "RelativeToolTip": "RushHour\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:43:44.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fahrzeug.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\source\\repos\\RushHour\\RushHour\\Fahrzeug.cs",
+              "RelativeDocumentMoniker": "RushHour\\Fahrzeug.cs",
+              "ToolTip": "C:\\Users\\matti\\source\\repos\\RushHour\\RushHour\\Fahrzeug.cs",
+              "RelativeToolTip": "RushHour\\Fahrzeug.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:10:42.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Spielbrett.cs",
+              "DocumentMoniker": "C:\\Users\\matti\\source\\repos\\RushHour\\RushHour\\Spielbrett.cs",
+              "RelativeDocumentMoniker": "RushHour\\Spielbrett.cs",
+              "ToolTip": "C:\\Users\\matti\\source\\repos\\RushHour\\RushHour\\Spielbrett.cs",
+              "RelativeToolTip": "RushHour\\Spielbrett.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:53:02.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\GitHub\RushHour\RushHour\RushHour\bin\Debug\net8.0\RushHour.exe
+C:\GitHub\RushHour\RushHour\RushHour\bin\Debug\net8.0\RushHour.deps.json
+C:\GitHub\RushHour\RushHour\RushHour\bin\Debug\net8.0\RushHour.runtimeconfig.json
+C:\GitHub\RushHour\RushHour\RushHour\bin\Debug\net8.0\RushHour.dll
+C:\GitHub\RushHour\RushHour\RushHour\bin\Debug\net8.0\RushHour.pdb
+C:\GitHub\RushHour\RushHour\RushHour\obj\Debug\net8.0\RushHour.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\RushHour\RushHour\RushHour\obj\Debug\net8.0\RushHour.AssemblyInfoInputs.cache
+C:\GitHub\RushHour\RushHour\RushHour\obj\Debug\net8.0\RushHour.AssemblyInfo.cs
+C:\GitHub\RushHour\RushHour\RushHour\obj\Debug\net8.0\RushHour.csproj.CoreCompileInputs.cache
+C:\GitHub\RushHour\RushHour\RushHour\obj\Debug\net8.0\RushHour.dll
+C:\GitHub\RushHour\RushHour\RushHour\obj\Debug\net8.0\refint\RushHour.dll
+C:\GitHub\RushHour\RushHour\RushHour\obj\Debug\net8.0\RushHour.pdb
+C:\GitHub\RushHour\RushHour\RushHour\obj\Debug\net8.0\RushHour.genruntimeconfig.cache
+C:\GitHub\RushHour\RushHour\RushHour\obj\Debug\net8.0\ref\RushHour.dll
