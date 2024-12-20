@@ -12,3 +12,4 @@ C:\GitHub\RushHour\RushHour\RushHour\obj\Debug\net8.0\refint\RushHour.dll
 C:\GitHub\RushHour\RushHour\RushHour\obj\Debug\net8.0\RushHour.pdb
 C:\GitHub\RushHour\RushHour\RushHour\obj\Debug\net8.0\RushHour.genruntimeconfig.cache
 C:\GitHub\RushHour\RushHour\RushHour\obj\Debug\net8.0\ref\RushHour.dll
+C:\GitHub\RushHour\RushHour\RushHour\obj\Debug\net8.0\RushHour.sourcelink.json
