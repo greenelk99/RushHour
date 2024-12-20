@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\GitHub\\RushHour\\RushHour\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8D6F545B-83B8-42D9-A4D0-AB8927541541}|RushHour\\RushHour.csproj|c:\\github\\rushhour\\rushhour\\rushhour\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F545B-83B8-42D9-A4D0-AB8927541541}|RushHour\\RushHour.csproj|solutionrelative:rushhour\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D6F545B-83B8-42D9-A4D0-AB8927541541}|RushHour\\RushHour.csproj|c:\\github\\rushhour\\rushhour\\rushhour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D6F545B-83B8-42D9-A4D0-AB8927541541}|RushHour\\RushHour.csproj|solutionrelative:rushhour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D6F545B-83B8-42D9-A4D0-AB8927541541}|RushHour\\RushHour.csproj|c:\\github\\rushhour\\rushhour\\rushhour\\spielfeld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D6F545B-83B8-42D9-A4D0-AB8927541541}|RushHour\\RushHour.csproj|solutionrelative:rushhour\\spielfeld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6F545B-83B8-42D9-A4D0-AB8927541541}|RushHour\\RushHour.csproj|c:\\github\\rushhour\\rushhour\\rushhour\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6F545B-83B8-42D9-A4D0-AB8927541541}|RushHour\\RushHour.csproj|solutionrelative:rushhour\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Fahrzeug.cs",
               "DocumentMoniker": "C:\\GitHub\\RushHour\\RushHour\\RushHour\\Fahrzeug.cs",
               "RelativeDocumentMoniker": "RushHour\\Fahrzeug.cs",
-              "ToolTip": "C:\\GitHub\\RushHour\\RushHour\\RushHour\\Fahrzeug.cs",
-              "RelativeToolTip": "RushHour\\Fahrzeug.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "ToolTip": "C:\\GitHub\\RushHour\\RushHour\\RushHour\\Fahrzeug.cs*",
+              "RelativeToolTip": "RushHour\\Fahrzeug.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T15:07:41.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Spielfeld.cs",
               "DocumentMoniker": "C:\\GitHub\\RushHour\\RushHour\\RushHour\\Spielfeld.cs",
               "RelativeDocumentMoniker": "RushHour\\Spielfeld.cs",
@@ -47,21 +47,19 @@
               "RelativeToolTip": "RushHour\\Spielfeld.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T10:36:18.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T10:36:18.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub\\RushHour\\RushHour\\RushHour\\Program.cs",
               "RelativeDocumentMoniker": "RushHour\\Program.cs",
               "ToolTip": "C:\\GitHub\\RushHour\\RushHour\\RushHour\\Program.cs",
               "RelativeToolTip": "RushHour\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T10:23:16.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T10:23:16.6Z"
             }
           ]
         }
