@@ -19,7 +19,7 @@ namespace RushHour
         {
             foreach (Fahrzeug f in fahrzeuge)
             {
-                if (f.position.x > )
+                if (!(f.position.x > )) //Wenn Auto nicht zwischen beiden x Werten ist
                 return true;
             }
 

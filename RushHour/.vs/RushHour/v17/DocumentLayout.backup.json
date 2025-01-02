@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\GitHub\\RushHour\\RushHour\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D6F545B-83B8-42D9-A4D0-AB8927541541}|RushHour\\RushHour.csproj|c:\\github\\rushhour\\rushhour\\rushhour\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6F545B-83B8-42D9-A4D0-AB8927541541}|RushHour\\RushHour.csproj|solutionrelative:rushhour\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GitHub\\RushHour\\RushHour\\RushHour\\Spielfeld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RushHour\\Spielfeld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6F545B-83B8-42D9-A4D0-AB8927541541}|RushHour\\RushHour.csproj|c:\\github\\rushhour\\rushhour\\rushhour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6F545B-83B8-42D9-A4D0-AB8927541541}|RushHour\\RushHour.csproj|solutionrelative:rushhour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GitHub\\RushHour\\RushHour\\RushHour\\Fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RushHour\\Fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6F545B-83B8-42D9-A4D0-AB8927541541}|RushHour\\RushHour.csproj|c:\\github\\rushhour\\rushhour\\rushhour\\spielfeld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6F545B-83B8-42D9-A4D0-AB8927541541}|RushHour\\RushHour.csproj|solutionrelative:rushhour\\spielfeld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GitHub\\RushHour\\RushHour\\RushHour\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RushHour\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,36 +22,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Fahrzeug.cs",
               "DocumentMoniker": "C:\\GitHub\\RushHour\\RushHour\\RushHour\\Fahrzeug.cs",
               "RelativeDocumentMoniker": "RushHour\\Fahrzeug.cs",
-              "ToolTip": "C:\\GitHub\\RushHour\\RushHour\\RushHour\\Fahrzeug.cs*",
-              "RelativeToolTip": "RushHour\\Fahrzeug.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\GitHub\\RushHour\\RushHour\\RushHour\\Fahrzeug.cs",
+              "RelativeToolTip": "RushHour\\Fahrzeug.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T15:07:41.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T15:07:41.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Spielfeld.cs",
               "DocumentMoniker": "C:\\GitHub\\RushHour\\RushHour\\RushHour\\Spielfeld.cs",
               "RelativeDocumentMoniker": "RushHour\\Spielfeld.cs",
               "ToolTip": "C:\\GitHub\\RushHour\\RushHour\\RushHour\\Spielfeld.cs",
               "RelativeToolTip": "RushHour\\Spielfeld.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAACPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T10:36:18.357Z"
+              "WhenOpened": "2024-12-15T10:36:18.357Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub\\RushHour\\RushHour\\RushHour\\Program.cs",
               "RelativeDocumentMoniker": "RushHour\\Program.cs",
