@@ -32,9 +32,10 @@
               "RelativeDocumentMoniker": "RushHour\\Fahrzeug.cs",
               "ToolTip": "C:\\GitHub\\RushHour\\RushHour\\RushHour\\Fahrzeug.cs",
               "RelativeToolTip": "RushHour\\Fahrzeug.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T15:07:41.467Z"
+              "WhenOpened": "2024-12-20T15:07:41.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,7 +45,7 @@
               "RelativeDocumentMoniker": "RushHour\\Spielfeld.cs",
               "ToolTip": "C:\\GitHub\\RushHour\\RushHour\\RushHour\\Spielfeld.cs",
               "RelativeToolTip": "RushHour\\Spielfeld.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T10:36:18.357Z",
               "EditorCaption": ""
@@ -57,7 +58,7 @@
               "RelativeDocumentMoniker": "RushHour\\Program.cs",
               "ToolTip": "C:\\GitHub\\RushHour\\RushHour\\RushHour\\Program.cs",
               "RelativeToolTip": "RushHour\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T10:23:16.6Z",
               "EditorCaption": ""

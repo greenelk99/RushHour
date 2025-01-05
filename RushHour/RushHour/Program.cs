@@ -6,10 +6,9 @@ namespace RushHour
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
             Spielfeld spielfeld1 = new Spielfeld();
-            spielfeld1.print();
-            spielfeld1.FelderFrei((1,2), (1,2))
+            Console.WriteLine(spielfeld1.FelderFrei((0, 0), (5, 5)));
+            Console.ReadKey();
         }
     }
 }

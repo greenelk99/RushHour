@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RushHour")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48094a06e91e00c896b7d9d4427311349addfd7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffc55e79c30a7fbc5769b3cc607991f28c33a26b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RushHour")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RushHour")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

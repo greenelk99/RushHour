@@ -22,9 +22,9 @@ namespace RushHour
         }
 
 
+        /*
 
-
-        public bool Fewegen(int schritte)
+        public bool Bewegen(int schritte)
         {
             if(//Bewegung möglich)
             {
@@ -43,6 +43,6 @@ namespace RushHour
             {
                 return false;
             }
-        }
+        } */
     }
 }
